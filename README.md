@@ -1,2 +1,2 @@
-# desafios-html5 e css3
+# desafios de HTM5 e CSS3
  
